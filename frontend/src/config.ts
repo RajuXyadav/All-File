@@ -1,0 +1,1 @@
+export const BACKEND_URL = " https://prac-medium-website.kumaryadavx.workers.dev"
